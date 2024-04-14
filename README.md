@@ -1,6 +1,6 @@
 # Quadb-Tech-to-do-list
 ## This project is a created as a part of the assignmet for Quadb-Tech
-<br />
+
 
 ### Step to Create the project
 1. Created a github repo <quadb-tech-to-do-list>
@@ -35,17 +35,19 @@ d. TodoWrapper
 8. Run the react app 
     npm run dev
 
-9. Committed and pushed to github after every feature
+9. Committed and pushed to GitHub after every feature
 
-10. Deployed the website on github pages. I have used the "github pages" package to do so.
+10. Deployed the website on GitHub pages. I have used the "github pages" package to do so.
     npm install gh-pages
 
 ### Access the deployed software at:
 https://kristina-14.github.io/quadb-tech-to-do-list/
 
-# Note: Viewers may run the software in their local system, however the software is already deployed so you can easily use it online from anywhere. 
+## Note: Viewers may run the software in their local system, however, the software is already deployed so you can easily use it online from anywhere. 
 
 ### Step to run the software in local systems, use the following commands:
 a. git clone <repo url>
+
 b. cd to the folder and open vs code 
+
 c. run the software -->   npm run dev
