@@ -25,7 +25,7 @@ h1 {
 }
 
 .TodoWrapper {
-  background: #5db82f;
+  background: #2e83b8;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -38,36 +38,49 @@ h1 {
 
 .todo-input {
   outline: none;
-  background: none;
-  border: 1.5px solid black;
+  background: white;
+  border: 2px solid #78e0f5;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
   width: 300px;
-  color: #626060fb;
 }
 
 .todo-input::placeholder {
-  color: #626060fb;
+  color: #bcbaba;
+  font-weight: 300px;
+}
+
+.todo-input:hover::placeholder {
+  color: white;
   font-weight: 300px;
 }
 
 .todo-input:hover {
-  background: white;
-  color: black;
-  border: 2px solid #a2f578;
+  background: rgba(128, 178, 236);
+  color: white;
+  font-weight: 300;
+  border: 2px solid #78e0f5;
 }
 
 .todo-btn {
-  background: black;
+  background: none;
   color: #fff;
-  border: none;
-  padding: 0.55rem;
+  border: 2px solid white;
+  padding: 0.45rem;
   cursor: pointer;
+  border-radius: 5px;
+}
+.todo-btn:hover {
+  background: rgba(128, 178, 236);
+  color: black;
+  border: 2px solid black;
+  font-weight: bold;
 }
 
 .Todo:hover {
-  background: #2f7401;
+  background: rgb(128, 178, 236);
+  color: black;
   border: 2px solid black;
 }
 
