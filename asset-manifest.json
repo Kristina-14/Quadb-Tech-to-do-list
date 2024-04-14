@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quadb-tech-to-do-list/static/css/main.507814a5.css",
+    "main.js": "/quadb-tech-to-do-list/static/js/main.b19d7c2e.js",
+    "static/js/453.9a037bc3.chunk.js": "/quadb-tech-to-do-list/static/js/453.9a037bc3.chunk.js",
+    "index.html": "/quadb-tech-to-do-list/index.html",
+    "main.507814a5.css.map": "/quadb-tech-to-do-list/static/css/main.507814a5.css.map",
+    "main.b19d7c2e.js.map": "/quadb-tech-to-do-list/static/js/main.b19d7c2e.js.map",
+    "453.9a037bc3.chunk.js.map": "/quadb-tech-to-do-list/static/js/453.9a037bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507814a5.css",
+    "static/js/main.b19d7c2e.js"
+  ]
+}
