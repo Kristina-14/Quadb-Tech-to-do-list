@@ -1,1 +1,0 @@
-# Quadb-Tech-to-do-list
