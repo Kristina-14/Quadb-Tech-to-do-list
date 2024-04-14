@@ -39,16 +39,23 @@ h1 {
 .todo-input {
   outline: none;
   background: none;
-  border: 1px solid black;
+  border: 1.5px solid black;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
   width: 300px;
-  color: #dbd8d8fb;
+  color: #626060fb;
 }
 
 .todo-input::placeholder {
-  color: #dbd8d8fb;
+  color: #626060fb;
+  font-weight: 300px;
+}
+
+.todo-input:hover {
+  background: white;
+  color: black;
+  border: 2px solid #a2f578;
 }
 
 .todo-btn {
